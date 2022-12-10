@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.6.2)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Realm (10.30.0):
+    - Realm/Headers (= 10.30.0)
+  - Realm/Headers (10.30.0)
+  - RealmSwift (10.30.0):
+    - Realm (= 10.30.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - IQKeyboardManagerSwift
+  - RealmSwift (~> 10)
+  - RxCocoa (= 6.5.0)
+  - RxSwift (= 6.5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Realm: 247ccacf72e656c6ee09b242f7d24d5cf99cc058
+  RealmSwift: b3f5c52afa6ac480bd9c3e791c2576f55b3ecb44
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: f982ffaf471c8ddf68a38bcb8b6f6f87213bea9f
+
+COCOAPODS: 1.11.3
